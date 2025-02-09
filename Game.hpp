@@ -2,6 +2,7 @@
 #include "Player.hpp"
 #include "AmericanWheel.hpp"
 #include "EuropeanWheel.hpp"
+#include <memory>
 
 class Game {
 public:
